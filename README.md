@@ -9,27 +9,27 @@ The zip contains a svn repo. Moved to Git because who uses svn??!!
 
 l. MOOSDB apps
 
-	l. MOOSDB
-	l. uXMS
-	l. uTimerScript
-	l. uPokeDB
-	l. uMS
-	l. pAntler
-	l. pHelmIvP
-	l. pXRelay
-	l. pMarineViewer
-	l. pShare
-	l. uField Toolbox
+	a. MOOSDB
+	b. uXMS
+	c. uTimerScript
+	d. uPokeDB
+	e. uMS
+	f. pAntler
+	g. pHelmIvP
+	h. pXRelay
+	i. pMarineViewer
+	j. pShare
+	k. uField Toolbox
 
-l. Writing MOOS apps in C/C++
+2. Writing MOOS apps in C/C++
 
-	l. GenMOOSApp
-	l. GenMOOSApp_AppCasting 
-	l. Adding apps to the build system
-	l. Subscribing to and publishing MOOS variables
-	l. Iterative problem solving
+	a. GenMOOSApp
+	b. GenMOOSApp_AppCasting 
+	c. Adding apps to the build system
+	d. Subscribing to and publishing MOOS variables
+	e. Iterative problem solving
 
-l. HelmIvP and behavior writing
+3. HelmIvP and behavior writing
 	
-	l. Behavior writing and IvP functions
-	l. GenBehavior
+	a. Behavior writing and IvP functions
+	b. GenBehavior
