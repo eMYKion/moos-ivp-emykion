@@ -7,7 +7,7 @@ The zip contains a svn repo. Moved to Git because who uses svn??!!
 
 # Things I Learned
 
-l. MOOSDB apps
+1. MOOSDB apps
 
 	a. MOOSDB
 	b. uXMS
