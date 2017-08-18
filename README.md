@@ -7,7 +7,7 @@ The zip contains a svn repo. Moved to Git because who uses svn??!!
 
 # Things I Learned
 
-1. MOOSDB apps
+### 1. MOOSDB apps
 
 	a. MOOSDB
 	
@@ -31,7 +31,7 @@ The zip contains a svn repo. Moved to Git because who uses svn??!!
 	
 	k. uField Toolbox
 
-2. Writing MOOS apps in C/C++
+### 2. Writing MOOS apps in C/C++
 
 	a. GenMOOSApp
 	
@@ -43,7 +43,7 @@ The zip contains a svn repo. Moved to Git because who uses svn??!!
 	
 	e. Iterative problem solving
 
-3. HelmIvP and behavior writing
+### 3. HelmIvP and behavior writing
 	
 	a. Behavior writing and IvP functions
 	
