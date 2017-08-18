@@ -43,7 +43,7 @@ The zip contains a svn repo. Moved to Git because who uses svn??!!
 	
 	e. Iterative problem solving
 
-### 3. HelmIvP and behavior writing
+### 3. HelmIvP and behavior writing (C/C++)
 	
 	a. Behavior writing and IvP functions
 	
